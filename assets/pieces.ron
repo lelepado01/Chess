@@ -1,0 +1,86 @@
+List((
+    texture_width: 2456, 
+    texture_height: 750, 
+    sprites : [
+        // white pawn
+        (
+            x: 2200, 
+            y: 0, 
+            width: 256, 
+            height: 375,  
+        ), 
+        // black pawn
+        (
+            x: 2200, 
+            y: 375, 
+            width: 256, 
+            height: 375,  
+        ), 
+        //white knight
+        (
+            x: 290, 
+            y: 0, 
+            width: 365, 
+            height: 375
+        ),
+        //black knight
+        (
+            x: 290, 
+            y: 375, 
+            width: 365, 
+            height: 375
+        ), 
+        // white rook
+        (
+            x: 0, 
+            y: 0, 
+            width: 256, 
+            height: 375
+        ), 
+        // black rook
+        (
+            x: 0, 
+            y: 375, 
+            width: 256, 
+            height: 375
+        ), 
+        // white bishop
+        (
+            x: 655, 
+            y: 0, 
+            width: 365, 
+            height: 375
+        ),
+        // black bishop
+        (
+            x: 655, 
+            y: 375, 
+            width: 365, 
+            height: 375
+        ), 
+        (
+            x: 1410, 
+            y: 0,
+            width: 360, 
+            height: 375
+        ),
+        (
+            x: 1410, 
+            y: 375, 
+            width: 360, 
+            height: 375
+        ),
+        (
+            x: 1040, 
+            y: 0, 
+            width: 365, 
+            height: 375
+        ),
+        (
+            x: 1040, 
+            y: 375, 
+            width: 365, 
+            height: 375
+        ),
+    ]
+))
